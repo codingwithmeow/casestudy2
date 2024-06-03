@@ -87,6 +87,14 @@ a:hover {
 	  width: 100%;
 	  height: 325px;
 	}
+	
+	.card img {
+	  padding-top: 10px;
+	  width: 250px;
+	  height: 250px;
+	  margin:auto;
+	}
+	
 }
 
 @media screen and (min-width:768px) and (max-width:1199px) {
@@ -146,7 +154,8 @@ video::cue(.f_size) {
 	}
 	
 	.card.home_page {
-	  width: 50%;
+	  width: 200px;
+	  height: 240px;
 	  margin: auto;
 		
 	}
